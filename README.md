@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=2200&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hello+World+!!!;नमस्ते+!!!;My+name+is+Prem+Kumar;Things+I’m+excited+about;Artificial+Intelligence;Machine+Learning;Data+Engineering;Cloud+Computing" />
 </h1>
 
-## Hey!
+## Hello there !
 
 I’m **Prem Kumar**, an AI enthusiast with interests in **Machine Learning, Data Engineering, and Cloud Computing**.
 I enjoy building systems, learning deeply, and with a background in Artificial Intelligence and Machine Learning, I work with transformer-based models, large language systems, and advanced deep learning techniques to build impactful solutions. My interests focus on developing ethical, transparent, and inclusive AI systems that deliver meaningful real-world value.
