@@ -9,8 +9,7 @@
 ## Hey!
 
 I’m **Prem Kumar**, an AI enthusiast with interests in **Machine Learning, Data Engineering, and Cloud Computing**.
-I enjoy building systems, learning deeply, and understanding  *how intelligent software scales in real-world environments.*
-With a strong background in Artificial Intelligence and Machine Learning, I work with transformer-based models, large language systems, and advanced deep learning techniques to build impactful solutions. My interests focus on developing ethical, transparent, and inclusive AI systems that deliver meaningful real-world value.
+I enjoy building systems, learning deeply, and with a background in Artificial Intelligence and Machine Learning, I work with transformer-based models, large language systems, and advanced deep learning techniques to build impactful solutions. My interests focus on developing ethical, transparent, and inclusive AI systems that deliver meaningful real-world value.
 
 ---
 
