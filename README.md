@@ -1,35 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=240&text=What's%20up%20!!!&fontSize=42&fontAlignY=40&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff1493" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=120&color=0:ff0080,25:ff8c00,50:40e0d0,75:8a2be2,100:ff1493" width="100%"/>
 </p>
 
-<h2 align="center">Prem Kumar</h2>
-
-<p align="center">
-  Interests : Artificial Intelligence · Machine Learning · Data Engineering · Cloud Computing
-</p>
-
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=34&duration=2200&pause=1000&color=000000&center=true&vCenter=true&width=900&lines=Hello+World+!!!;नमस्ते+!!!;My+name+is+Prem+Kumar;Things+I’m+excited+about;Artificial+Intelligence;Machine+Learning;Data+Engineering;Cloud+Computing" />
+</h1>
 
 ## Hey!
 
-I’m **Prem Kumar**, an AI engineer with strong interests in  **Artificial Intelligence, Data Engineering, and Cloud Computing**.
-
+I’m **Prem Kumar**, an AI enthusiast with interests in **Machine Learning, Data Engineering, and Cloud Computing**.
 I enjoy building systems, learning deeply, and understanding  *how intelligent software scales in real-world environments.*
+With a strong background in Artificial Intelligence and Machine Learning, I work with transformer-based models, large language systems, and advanced deep learning techniques to build impactful solutions. My interests focus on developing ethical, transparent, and inclusive AI systems that deliver meaningful real-world value.
 
 ---
 
 ## 🎓 Background
-- 🎓 Doing Masters in AIML from BITS Pilani  
+- 🎓 Pursuing a Master’s degree in Artificial Intelligence and Machine Learning at BITS Pilani 
 - 💻 Interested in AI, ML, backend systems, and distributed computing  
 - 🌍 Motivated by real-world problem solving using technology  
 
 ---
 
 ## 🚀 What I’m Currently Learning
-- Machine Learning  
-- Data engineering & analytics workflows  
-- Cloud architecture and system design  
-- Python for automation and ML  
+- Advanced Deep Learning  
+- Graph Neural Networks (GNNs)  
+- Natural Language Processing (NLP) Applications  
+- Conversational AI  
+- Computer Vision  
+- Data Engineering and Analytics Workflows  
+- Cloud Architecture and System Design  
 
 ---
 
@@ -44,7 +43,7 @@ I enjoy building systems, learning deeply, and understanding  *how intelligent s
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `SQL` `JavaScript` `Scala`
+`Python` `SQL` `JavaScript` `Scala` `Shell`
 
 **Cloud & Data**  
 `Azure` `Databases` `Big Data Tools`
@@ -58,7 +57,7 @@ I enjoy building systems, learning deeply, and understanding  *how intelligent s
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=premkr228&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkr228&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkr228&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -74,9 +73,5 @@ I enjoy building systems, learning deeply, and understanding  *how intelligent s
 
 ---
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"
-    width="100%"
-    height="80"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff1493,25:8a2be2,50:40e0d0,75:ff8c00,100:ff0080" width="100%"/>
 </p>
