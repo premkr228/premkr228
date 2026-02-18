@@ -52,15 +52,6 @@ I enjoy building systems, learning deeply, and with a background in Artificial I
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=premkr228&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=premkr228&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 🌌 Philosophy
 > *Consistency beats intensity. Progress compounds.*
 
